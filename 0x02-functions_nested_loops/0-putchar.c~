@@ -1,7 +1,0 @@
-#include<studio.h>
-main{
-
-  print("_putchar")
-
-
-}
