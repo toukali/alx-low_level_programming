@@ -2,10 +2,10 @@
 
 
 /**
- * ky_index - function  gives index of a key.
+ * key_index - function that gives the index of a key.
  * @key: Const unsigned char - unique value passed
- * @size: Unsigned long int -  array size
- * Return: Unsigned long int of index where key is stored
+ * @size: Unsigned long int - size of array
+ * Return: Unsigned long int of index where the key is stored
  */
 
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
